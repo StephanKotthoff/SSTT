@@ -1,0 +1,1 @@
+{"Specific Enthalpy": ["kJ/kg", "kcal/kg"], "Pressure": ["MPa", "bara", "ata", "psi"], "Temperature": ["K", "degC"], "Specific Entropy": ["kJ/kgK"], "Steam Quality": ["kg/kg"], "Specific Volume": ["m3/kg"], "Density": ["kg/m3", "ton/m3"]}
